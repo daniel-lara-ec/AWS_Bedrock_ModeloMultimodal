@@ -1,0 +1,20 @@
+{
+  "output": {
+    "message": {
+      "content": [
+        {
+          "text": "TEXTIL SAN PEDRO SA Valle De Los Chillos Vía Sangolquí Km. 3 Amaguana El Cortijo Quito - Ecuador ( ) 233-5548 2024 2023 Posición ventas 2024: 2790 Ingresos Totales: $7,631,376 Utilidad Bruta: $728,474 Impuesto Causado: $168,947 Utilidad/Ingresos: --- C1U: C1312.02 Fabricación de tejidos (telas) aterciopelados y de felpilla, tejidos de rizó, tejidos de gasa, etcétera. Empr Guía de Negoci"
+        }
+      ],
+      "role": "assistant"
+    }
+  },
+  "stopReason": "end_turn",
+  "usage": {
+    "inputTokens": 1618,
+    "outputTokens": 169,
+    "totalTokens": 1787,
+    "cacheReadInputTokenCount": 0,
+    "cacheWriteInputTokenCount": 0
+  }
+}

@@ -1,0 +1,6 @@
+boto3
+pillow
+pymupdf
+pdf2image
+numpy
+tqdm
