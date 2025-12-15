@@ -4,3 +4,4 @@ pymupdf
 pdf2image
 numpy
 tqdm
+python-dotenv
